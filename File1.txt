@@ -2,12 +2,14 @@ Hello World!!!
 
 Welcome to Git...
 
-Change: login feature
+Change 1: login feature
 
-Change : Bug1
+Change 2: Bug1
 
-Change: Bug2
+Change 3: Bug2
 
-Change: from teammate from remote repo for some feature like logout
+Change 4: from teammate from remote repo for some feature like logout
+
+Change 5: to test rebase and change is from teammate
 
 
