@@ -1,13 +1,9 @@
 This file for CR1
 
----------------
-
 This is file 2
-
----------------
 
 Change by team mate on remote repo for testing pull/fetch
 
----------------------------------------------------------
+Change on local to test rebase
 
-Change by teammate to test rebase on remote repo
+File2 updated to test rebase on local
