@@ -5,3 +5,7 @@ Welcome to Git...
 Change: login feature
 
 Change : Bug1
+
+Change: Bug2
+
+Change: from teammate from remote repo for some feature like logout
